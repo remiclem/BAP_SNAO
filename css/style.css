@@ -1,0 +1,26 @@
+#about {
+    background-color: #1b6d85;
+    width: auto;
+    height: 400px;
+}
+
+#services {
+    background-color: #4cae4c;
+    width: auto;
+    height: 400px;
+}
+
+#portfolio {
+    background-color: pink;
+    width: auto;
+    height: 400px;
+}
+
+#contact {
+    background-color: red;
+    width: auto;
+    height: 400px;
+}
+body{
+    padding-top: 70px;
+}
